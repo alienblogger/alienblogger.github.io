@@ -28,7 +28,7 @@
     "next": "^9.5.4",
     "pg": "^8.5.1",
     "postgres": "^1.0.2",
-    "prismjs": "^1.23.0",
+    "prismjs": "^1.24.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "totp-generator": "^0.0.8"
